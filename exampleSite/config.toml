@@ -1,9 +1,9 @@
 baseURL = "https://MFToonS.netlify.com"
-disableLanguages = ["fr"]
+disableLanguages = []
 disqusShortname = ""
 paginate = "1"
 summaryLength = "0"
-theme = "meghna-hugo"
+theme = "Theme"
 title = ""
 [Languages.en]
 contentDir = ""
