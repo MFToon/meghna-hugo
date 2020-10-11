@@ -1,4 +1,4 @@
-baseURL = "https://MFToonS.com"
+baseURL = "https://MFToonS.netlify.com"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
