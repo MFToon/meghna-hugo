@@ -3,8 +3,8 @@ disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "1"
 summaryLength = "1"
-theme = "meghna-hugo"
-title = "Meghna"
+theme = ""
+title = ""
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
@@ -19,6 +19,8 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
+[menu]
+main = []
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
