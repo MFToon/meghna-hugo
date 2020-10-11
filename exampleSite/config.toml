@@ -19,8 +19,6 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
-[menu]
-main = []
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
