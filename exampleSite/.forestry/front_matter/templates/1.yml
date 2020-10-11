@@ -9,5 +9,3 @@ fields:
   hidden: false
   label: '2'
   default: "/images/do-not-disturb.png"
-pages:
-- exampleSite/data/4.md
