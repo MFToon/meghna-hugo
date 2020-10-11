@@ -6,19 +6,19 @@ summaryLength = "1"
 theme = ""
 title = ""
 [Languages.en]
-contentDir = "content/english"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
-home = "Home"
+contentDir = ""
+copyright = ""
+home = ""
 languageCode = "en-us"
 languageName = "En"
-weight = 1
+weight = ""
 [Languages.fr]
-contentDir = "content/french"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
-home = "Accueil"
-languageCode = "fr-fr"
-languageName = "Fr"
-weight = 2
+contentDir = ""
+copyright = ""
+home = ""
+languageCode = ""
+languageName = ""
+weight = ""
 [menu]
 main = []
 [params]
